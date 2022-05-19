@@ -49,3 +49,27 @@ IDからのツイートで検索。
 | 検索エンジン | ショートカット | URL (%s=検索語句) |
 | -- | -- | -- |
 | Twitter | twitter | https://twitter.com/search?q=from%3A%s |
+
+# YouTube
+
+YouTube動画の検索。
+
+| 検索エンジン | ショートカット | URL (%s=検索語句) |
+| -- | -- | -- |
+| YouTube | youtube | https://www.youtube.com/results?search_query=%s |
+
+# Qiita
+
+Qiita記事の検索。
+
+| 検索エンジン | ショートカット | URL (%s=検索語句) |
+| -- | -- | -- |
+| Qiita | qiita | https://qiita.com/search?q=%s |
+
+# pkg.go.dev
+
+GolangのPackageを検索。
+
+| 検索エンジン | ショートカット | URL (%s=検索語句) |
+| -- | -- | -- |
+| pkg.go.dev | go | https://pkg.go.dev/search?q=%s |
